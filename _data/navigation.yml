@@ -1,25 +1,25 @@
 - name: Home
-  link: /index.html
+  link: index.html
   status: enabled
   
 - name: Committees
-  link: /committees.html
+  link: committees.html
   status: enabled
   
 - name: Authors
-  link: /authors.html
+  link: authors.html
   status: disabled
   
 - name: Call for Papers
-  link: /cfp.html
+  link: cfp.html
   status: enabled
   
 - name: Registration
-  link: /registration.html
+  link: registration.html
   status: disabled
   
 - name: Program
-  link: /program.html
+  link: program.html
   status: disabled
   
 - name: Keynotes
