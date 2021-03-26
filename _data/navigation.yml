@@ -23,29 +23,29 @@
   status: disabled
   
 - name: Keynotes
-  link: /keynotes.html
+  link: keynotes.html
   status: disabled
   
 - name: Call for Tutorials
-  link: /cft.html
+  link: cft.html
   status: enabled
   
 - name: Call for Workshops
-  link: /cfw.html  
+  link: cfw.html  
   status: enabled
   
 - name: Panel
-  link: /panel.html
+  link: panel.html
   status: disabled
   
 - name: Workshops
-  link: /workshops.html
+  link: workshops.html
   status: disabled
 
 - name: Patrons
-  link: /patrons.html
+  link: patrons.html
   status: enabled
   
 - name: Locality
-  link: /about_izmir.html
+  link: about_izmir.html
   status: enabled
