@@ -41,23 +41,7 @@
             <div class="navbar-collapse hidden-up-to-s">
                 <div class="uk-navbar-left">
 
-                    <ul data-uk-toggle="media: @s; cls: uk-navbar-nav uk-padding-remove; mode: media" class="uk-nav uk-nav-primary uk-padding-small">
-                        <li {% if page.name=='index.html' %}class="uk-active"{% endif %}><a href="index.html">Home</a></li>
-                        <li {% if page.name=='committees.html' %}class="uk-active"{% endif %}><a href="committees.html">Committees</a></li>
-                        <!-- <li {% if page.name=='authors.html' %}class="uk-active"{% endif %}><a href="authors.html">Authors</a></li> -->
-                        <li {% if page.name=='cfp.html' %}class="uk-active"{% endif %}><a href="cfp.html">Call for Papers</a></li>
-                        <!-- <li {% if page.name=='registration.html' %}class="uk-active"{% endif %}><a href="registration.html">Registration</a></li> -->
-                        <!-- <li {% if page.name=='program.html' %}class="uk-active"{% endif %}><a href="program.html">Program</a></li> -->
-                        <!-- <li {% if page.name=='keynotes.html' %}class="uk-active"{% endif %}><a href="keynotes.html">Keynotes</a></li> -->
-                        <li {% if page.name=='cft.html' %}class="uk-active"{% endif %}><a href="cft.html">Call for Tutorials</a></li>
-                        <li {% if page.name=='cfw.html' %}class="uk-active"{% endif %}><a href="cfw.html">Call for Workshops</a></li>
-                        <!-- <li {% if page.name=='panel.html' %}class="uk-active"{% endif %}><a href="panel.html">Panel</a></li> -->
-                        <!-- <li {% if page.name=='workshops.html' %}class="uk-active"{% endif %}><a href="workshops.html">Workshops</a></li> -->
-                       <!--  <li {% if page.name=='virtual.html' %}class="uk-active"{% endif %}><a href="virtual.html">Virtual</a></li> -->
-                        <li {% if page.name=='patrons.html' %}class="uk-active"{% endif %}><a href="patrons.html">Patrons</a></li>
-                        <li {% if page.name=='about_izmir.html' %}class="uk-active"{% endif %}><a href="about_izmir.html">Locality</a></li>
-
-                    </ul>
+                  {% include navigation.html %}
 
                 </div>
             </div>
