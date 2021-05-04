@@ -6,10 +6,6 @@
   link: committees.html
   status: enabled
   
-- name: Authors
-  link: authors.html
-  status: disabled
-  
 - name: Call for Papers
   link: cfp.html
   status: enabled
@@ -32,6 +28,10 @@
   
 - name: Call for Workshops
   link: cfw.html  
+  status: enabled
+  
+- name: Authors
+  link: authors.html
   status: enabled
   
 - name: Panel
