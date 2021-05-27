@@ -30,6 +30,10 @@
   link: cfw.html  
   status: enabled
   
+- name: Call for Demos
+  link: cfd.html  
+  status: enabled
+  
 - name: Authors
   link: authors.html
   status: enabled
