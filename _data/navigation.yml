@@ -28,7 +28,7 @@
   
 - name: Call for Workshops
   link: cfw.html  
-  status: enabled
+  status: disabled
   
 - name: Call for Demos
   link: cfd.html  
@@ -44,7 +44,7 @@
   
 - name: Workshops
   link: workshops.html
-  status: disabled
+  status: enabled
 
 - name: Patrons
   link: patrons.html
