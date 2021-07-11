@@ -10,18 +10,6 @@
   link: cfp.html
   status: enabled
   
-- name: Registration
-  link: registration.html
-  status: disabled
-  
-- name: Program
-  link: program.html
-  status: disabled
-  
-- name: Keynotes
-  link: keynotes.html
-  status: disabled
-  
 - name: Call for Tutorials
   link: cft.html
   status: enabled
@@ -32,6 +20,18 @@
   
 - name: Call for Demos
   link: cfd.html  
+  status: enabled
+  
+- name: Registration
+  link: registration.html
+  status: disabled
+  
+- name: Program
+  link: program.html
+  status: disabled
+  
+- name: Keynotes
+  link: keynotes.html
   status: enabled
   
 - name: Authors
