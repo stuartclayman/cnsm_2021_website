@@ -1,0 +1,154 @@
+We  apologize for multiples  copies. Please  circulate this  CFP among
+your colleagues and students.
+
+**********************************************************************
+
+      3rd International Workshop on High-Precision, Predictable,     
+               and Low-Latency Networking (HiPNet 2021)
+               
+              at CNSM 2021, Izmir, Turkey, 25-29 October
+
+          http://www.cnsm-conf.org/2021/workshop_HiPNet.html
+          
+**********************************************************************
+
+IMPORTANT UPDATES:          
+(1) Extended Submission Deadline (firm): 14 August
+(2) HiPNet 2021 is now planned as a hybrid event, allowing 
+    participants to attend/present on site or remotely as they wish
+    
+
+Call for Papers
+---------------
+New waves  of networked  applications continue to  push the  limits of
+what is possible with networks today. For example, Industrial Internet
+applications,  Augmented Reality,  Tactile Internet  require ultra-low
+latency measured in  single-digit milliseconds and do  not tolerate no
+jitter at all. Economic  pressures mandate increasingly cloudification
+of real-time applications with precision  service level needs. Many of
+those applications are mission-critical and  cannot afford any loss in
+connectivity or even single  packets. Collectively, these applications
+require   networking   services   that  support   high-precision   and
+predictable service  levels with associated guarantees  that border on
+determinism.  This requires  a rethinking  of many  of the  principles
+underlying existing "Best Effort" internetworking technology.
+
+Various  approaches  are emerging  to  tackle  those challenges.  Data
+centers with  fixed topologies and  a constant number of  hops rapidly
+replace    conventional   routing    and    more   general    Internet
+topologies.  Networks  are  becoming  more programmable  to  allow  to
+custom-tailor  and optimize  treatment of  packets and  flows. Related
+technologies range  from Service Function Chaining  to Network Slicing
+to  SDN.  While  5G is  making URLLC  at the  network edge  a reality,
+momentum for  Beyond 5G and 6G  is building to push  the boundaries of
+precision  services  beyond  the  edge   and  across  the  core.   One
+overarching question concerns how  these technologies can be harnessed
+and what additional approaches are needed to deliver on high-precision
+and predictable networking. This will involve advances over all planes
+of  network  architectures,  such  as programming  and  processing  of
+packets in  the data plane,  control interfaces and  ultra-low latency
+control  loops  to  optimize  service  levels  in  the  control-plane,
+high-precision measurements and telemetry  with nanosecond accuracy at
+scale, and related platforms and algorithms in the management plane.
+
+The workshop  aims to  provide a forum  for researchers,  students and
+professionals  from  industry  and  academia  to  discuss  challenges,
+solution  approaches, and  work-in-progress  to  deliver, manage,  and
+control high-precision and  predictable networking services, including
+(Ultra) Low-Latency  networks, deterministic networking, 6G,  etc. The
+workshop welcomes  papers related  to disruptive  concepts, innovative
+solutions, testbeds, experiments, etc.  Topics of Interest include but
+are not limited to the following:
+
+- Platforms  to   manage  and  operate  high-precision   networks  and
+  services,  e.g.  Industrial  Networks, Tactile  Networks,  Augmented
+  Reality (AR), cloud gaming
+- Proof and validation of high-precision service level guarantees
+- High-precision  measurement  techniques  for ultra-low  latency  and
+  jitter
+- Service assurance for micro services, for service function chains
+- Applications for Inband Network Telemetry and iOAM
+- High-precision networking using service function chaining
+- In-network service level tuning and optimization; predictable QoS
+- Novel network programming models
+- Applications   of   Artificial   Intelligence   for   high-precision
+  networking
+- Time-Sensitive Networking  (TSN) interconnect and wide-area  TSN; IP
+  and TSN convergence
+- SDN applications for high-precision, high-performance networking
+- High-precision networking over 5G
+- High-Precision networking services using Fog and Edge Computing
+- Deployment & operational experiences w/ Industrial Internet, Tactile
+  Internet, networked AR, cloud gaming
+- 5G optimization techniques for ensuring Low Latency
+- Testbeds for High-Precision (OAI, MAGMA, etc.)
+- Networking  optimization for  fast  processing  and delivery  (DPDK,
+  etc.)
+- Microservices platform for ensuring High-Precision (OpenNetVM, etc.)
+
+Submission of Papers
+
+Authors are invited to submit original unpublished papers that are not
+already under  review elsewhere.  Submissions  will be subjected  to a
+peer-review  process.  Regular  papers  should be  submitted  in  IEEE
+2-column format, with paper length up to 7 pages including references.
+
+Papers have to  be submitted electronically in PDF  format through the
+EDAS  conference  management  system available here:
+
+https://edas.info/28754
+
+Authors  of  selected  workshop  papers   will  be  fast  tracked  for
+publication in a special issue of  the Springer Journal of Network and
+System Management (JNSM) on High  Precision Networking guest edited by
+the workshop organizers.
+
+Important  Dates
+
+Paper Submission: August 14, 2021 (extended)
+Notification: September 7, 2021
+Camera Ready: September 21, 2021
+Workshop: October 29, 2021
+
+Proceedings
+
+Papers accepted and presented at  HiPNet will be published open access
+on the conference Web site with  IFIP copyright, and will be submitted
+for  possible  inclusion   in  IEEE  Xplore,  ACM   and  IFIP  Digital
+Libraries.  To be  published in  the  Workshop Proceedings  and to  be
+eligible for publication, at least one  author of an accepted paper is
+required  to register  and  present  the paper  at  the workshop.  The
+organizer  reserves the  right to  exclude a  paper from  distribution
+after the conference  (including its removal from IEEE  Xplore) if the
+paper is not presented at the conference.
+
+Workshop Organizers
+
+Raouf Boutaba (University of Waterloo, Canada)
+Alexander Clemm (Futurewei, US)
+Guillaume Doyen (IMT-Atlantique, France)
+Bertrand Mathieu (Orange Labs, France) 
+Mohamed Faten Zhani (ETS Montreal, Canada)
+
+Technical Program Committee
+
+Dr. Anna Brunstrom, Karlstad University, Germany
+Prof. Stewart Bryant, Futurewei, US
+Prof. Georg Carle, Technische Universität München, Germany
+Dr. Jiasi Chen, University of California, Riverside, US
+Dr. Thibault Cholez, Universite de Lorraine, LORIA, France
+Mr. Toerless Eckert, Futurewei, US
+Dr. Flavio Esposito, Saint Louis University, US
+Dr. Valerio Frascolla, Intel Deutschland Gmbh, Germany
+Dr. Luciano Paschoal Gaspary, Federal University of Rio Grande do Sul, Brasil
+Prof. Xavier Lagrange, IMT Atlantique, France
+Dr. Bingyang Liu, Huawei, China
+Dr. Guido Marchetto, Politecnico di Torino, Italy
+Mr. Edgardo Montes de Oca, Montimage, France
+Dr. K. Ramakrishnan, University of California, US
+Prof. Martin Reisslein, Arizona State University, US
+Prof. Thomas Schmidt, Hamburg University of Applied Sciences, Germany
+Dr. Changyang She, The University of Sydney, Australia
+Dr. Maria Torres Vega, Ghent University, Belgium
+Mr. Stephane Tuffin, Orange Labs, France
+Dr. Shen Yan, Huawei Technologies Co, China
