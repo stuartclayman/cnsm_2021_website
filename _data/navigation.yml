@@ -8,7 +8,7 @@
   
 - name: Call for Papers
   link: cfp.html
-  status: enabled
+  status: disabled
   
 - name: Call for Tutorials
   link: cft.html
