@@ -132,25 +132,34 @@ Mohamed Faten Zhani (ETS Montreal, Canada)
 
 Technical Program Committee
 
-Dr. Anna Brunstrom, Karlstad University, Germany
-Prof. Stewart Bryant, University of Surrey, UK
-Prof. Georg Carle, Technische Universitaet Muenchen, Germany
-Dr. Jiasi Chen, University of California, Riverside, US
-Dr. Thibault Cholez, Universite de Lorraine, LORIA, France
-Mr. Uma Chunduri, Intel, US
-Mr. Toerless Eckert, Futurewei, US
-Dr. Flavio Esposito, Saint Louis University, US
-Dr. Valerio Frascolla, Intel Deutschland Gmbh, Germany
-Dr. Luciano Paschoal Gaspary, Federal Univ of Rio Grande do Sul, Brasil
-Prof. Xavier Lagrange, IMT Atlantique, France
-Dr. Bingyang Liu, Huawei, China
-Dr. Guido Marchetto, Politecnico di Torino, Italy
-Mr. Edgardo Montes de Oca, Montimage, France
-Dr. K. Ramakrishnan, University of California, US
-Prof. Martin Reisslein, Arizona State University, US
-Prof. Thomas Schmidt, Hamburg University of Applied Sciences, Germany
-Dr. Changyang She, The University of Sydney, Australia
-Dr. Maria Torres Vega, Ghent University, Belgium
-Mr. Stephane Tuffin, Orange Labs, France
-Dr. Shen Yan, Huawei Technologies Co, China
+Anna Brunstrom, Karlstad University, Germany
+Bingyang Liu, Huawei, China
+Changyang She, The University of Sydney, Australia
+Edgardo Montes de Oca, Montimage, France
+Flavio Esposito, Saint Louis University, US
+Georg Carle, Technische Universitaet Muenchen, Germany
+Guido Marchetto, Politecnico di Torino, Italy
+Jiasi Chen, University of California, Riverside, US
+K.K. Ramakrishnan, University of California, US
+Luciano Paschoal Gaspary, Federal Univ of Rio Grande do Sul, Brasil
+Maria Torres Vega, Ghent University, Belgium
+Martin Reisslein, Arizona State University, US
+Shen Yan, Huawei Technologies Co, China
+Stephane Tuffin, Orange Labs, France
+Stewart Bryant, University of Surrey, UK
+Stuart Clayman, University College London, UK
+Thibault Cholez, Universite de Lorraine, LORIA, France
+Thomas Schmidt, Hamburg University of Applied Sciences, Germany
+Toerless Eckert, Futurewei, US
+Uma Chunduri, Intel, US
+Valerio Frascolla, Intel Deutschland Gmbh, Germany
+Xavier Lagrange, IMT Atlantique, France
+
+
+
+
+
+
+
+
 
