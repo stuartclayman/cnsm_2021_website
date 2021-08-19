@@ -9,7 +9,7 @@ your colleagues and students.
               at CNSM 2021, Izmir, Turkey, 25-29 October
 
           http://www.cnsm-conf.org/2021/workshop_HiPNet.html
-          
+         
 **********************************************************************
 
 IMPORTANT UPDATES:          
@@ -133,14 +133,15 @@ Mohamed Faten Zhani (ETS Montreal, Canada)
 Technical Program Committee
 
 Dr. Anna Brunstrom, Karlstad University, Germany
-Prof. Stewart Bryant, Futurewei, US
-Prof. Georg Carle, Technische Universität München, Germany
+Prof. Stewart Bryant, University of Surrey, UK
+Prof. Georg Carle, Technische Universitaet Muenchen, Germany
 Dr. Jiasi Chen, University of California, Riverside, US
 Dr. Thibault Cholez, Universite de Lorraine, LORIA, France
+Mr. Uma Chunduri, Intel, US
 Mr. Toerless Eckert, Futurewei, US
 Dr. Flavio Esposito, Saint Louis University, US
 Dr. Valerio Frascolla, Intel Deutschland Gmbh, Germany
-Dr. Luciano Paschoal Gaspary, Federal University of Rio Grande do Sul, Brasil
+Dr. Luciano Paschoal Gaspary, Federal Univ of Rio Grande do Sul, Brasil
 Prof. Xavier Lagrange, IMT Atlantique, France
 Dr. Bingyang Liu, Huawei, China
 Dr. Guido Marchetto, Politecnico di Torino, Italy
@@ -152,3 +153,4 @@ Dr. Changyang She, The University of Sydney, Australia
 Dr. Maria Torres Vega, Ghent University, Belgium
 Mr. Stephane Tuffin, Orange Labs, France
 Dr. Shen Yan, Huawei Technologies Co, China
+
