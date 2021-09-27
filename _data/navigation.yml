@@ -20,7 +20,7 @@
   
 - name: Call for Demos
   link: cfd.html  
-  status: enabled
+  status: disabled
   
 - name: Registration
   link: registration.html
@@ -28,7 +28,7 @@
   
 - name: Program
   link: program.html
-  status: disabled
+  status: enabled
   
 - name: Keynotes
   link: keynotes.html
