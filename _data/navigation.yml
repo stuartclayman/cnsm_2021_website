@@ -46,6 +46,10 @@
   link: workshops.html
   status: enabled
 
+- name: Virtual
+  link: virtual.html
+  status: enabled
+  
 - name: Patrons
   link: patrons.html
   status: enabled
