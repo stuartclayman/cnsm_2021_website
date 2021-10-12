@@ -26,6 +26,10 @@
   link: registration.html
   status: enabled
   
+- name: Virtual
+  link: virtual.html
+  status: enabled
+  
 - name: Program
   link: program.html
   status: enabled
@@ -34,24 +38,20 @@
   link: keynotes.html
   status: enabled
   
-- name: Authors
-  link: authors.html
-  status: enabled
-  
 - name: Panel
   link: panel.html
+  status: enabled
+  
+- name: Tutorials
+  link: tutorial.html
   status: enabled
   
 - name: Workshops
   link: workshops.html
   status: enabled
 
-- name: Tutorials
-  link: tutorial.html
-  status: enabled
-  
-- name: Virtual
-  link: virtual.html
+- name: Authors
+  link: authors.html
   status: enabled
   
 - name: Patrons
